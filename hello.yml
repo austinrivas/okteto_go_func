@@ -7,4 +7,3 @@ functions:
     lang: golang-middleware
     handler: ./function
     image: austinrivas/hello:latest
-
